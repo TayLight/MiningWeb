@@ -1,0 +1,22 @@
+.button7 {
+    font-weight: 700;
+    color: white;
+    text-decoration: none;
+    padding: .8em 1em calc(.8em + 3px);
+    border-radius: 3px;
+    background: #698e9a;
+    box-shadow: 0 -3px #5e8a9a inset;
+    transition: 0.2s;
+}
+button7:hover { background: #5e8a9a; }
+button7:active {
+    background: #5e8a9a;
+    box-shadow: 0 3px #5e8a9a inset;
+}
+.raz {
+    text-align: right;
+}
+.block{
+    display:inline-block;
+    vertical-align:middle;
+}
